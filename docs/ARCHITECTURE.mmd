@@ -1,0 +1,9 @@
+flowchart TD
+    A[Organizer / Attendees] --> B[React Frontend]
+    B -->|HTTPS REST| C[FastAPI]
+    B -->|WSS| D[WebSocket Manager]
+    C --> E[(PostgreSQL Cloud DB)]
+    C --> F[JWT + RBAC]
+    C --> G[Notifications]
+    E --> D
+    D --> B

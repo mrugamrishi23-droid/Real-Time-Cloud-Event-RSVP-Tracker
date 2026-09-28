@@ -1,0 +1,32 @@
+# Screenshot Checklist
+
+Use these filenames:
+
+01_project_folder_structure.png
+02_cloud_architecture.png
+03_register.png
+04_login.png
+05_organizer_dashboard.png
+06_create_event.png
+07_published_event.png
+08_attendee_dashboard.png
+09_event_details.png
+10_going_rsvp.png
+11_maybe_rsvp.png
+12_realtime_counter.png
+13_multi_browser_realtime.png
+14_rsvp_database_record.png
+15_capacity_utilization.png
+16_full_event.png
+17_waitlist.png
+18_announcement.png
+19_notification.png
+20_analytics.png
+21_concurrency_test.png
+22_unauthorized_action.png
+23_automated_tests.png
+24_cloud_dashboard.png
+25_live_application.png
+26_github_commits.png
+27_github_repository.png
+28_readme_preview.png
